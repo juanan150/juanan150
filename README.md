@@ -12,3 +12,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+---
+
+## About me:
+Software Engineer, passionate about Web Development, Data Science, Astronomy and physics 🪐

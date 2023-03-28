@@ -32,4 +32,10 @@ Software Engineer, passionate about Web Development, Data Science, Astronomy and
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+    
+---
+## :fire: My stats:
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanan150&theme=dark&background=000000)](https://git.io/streak-stats)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanan150&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+

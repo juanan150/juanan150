@@ -10,7 +10,13 @@
 ---
 
 ## About me:
-Software Engineer, passionate about Web Development, Data Science, Astronomy and physics 🪐
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Bootcamp Mentor and Freelancer.
+
+- :zap: In my free time, I study about new techonologies, and try to solve some LeetCode problems just to warm up my brain.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-juanan150-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-andres-quiroz)
 
 ---
 ## Languages and tools
@@ -26,6 +32,7 @@ Software Engineer, passionate about Web Development, Data Science, Astronomy and
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
     
 ---

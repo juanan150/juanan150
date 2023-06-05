@@ -19,6 +19,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-juanan150-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-andres-quiroz)
 
 ---
+
 ## Languages and tools
 
 <div>
